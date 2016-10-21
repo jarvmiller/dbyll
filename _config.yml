@@ -7,10 +7,9 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: https://raw.githubusercontent.com/jarvmiller/jarvmiller.github.io/master/images/demo.gif
 
 
-avatar: https://raw.githubusercontent.com/jarvmiller/jarvmiller.github.io/master/images/demo.gif
 
 defaults:
   -
@@ -40,4 +39,4 @@ tags_path: tags.html
 BASE_PATH:
 
 gems:
-  - jekyll-paginate
+  - https://raw.githubusercontent.com/jarvmiller/jarvmiller.github.io/master/images/demo.gif
