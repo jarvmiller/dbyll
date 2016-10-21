@@ -9,6 +9,9 @@ disqus: dbyll
 google_analytics: dbyll
 title: dbyll
 
+
+avatar: https://raw.githubusercontent.com/jarvmiller/jarvmiller.github.io/master/images/demo.gif
+
 defaults:
   -
     scope:
