@@ -14,16 +14,16 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: solve(t(x)x)
+      title: Non-normal
 
 description: Stats in repose
 author:
   name: Stats in repose
   email: jarvm@umich.edu
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
+  github: jarvmiller
+#  twitter: dbtek
+#  pinterest: asd123
+#  linkedin: asd123
   bio: Statistics PhD student at the University of Michigan
   email_md5: 726351295ec82e145928582f595aa3aa
 
@@ -34,7 +34,7 @@ tags_path: tags.html
 # set it as url of an image
 # sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
 
-BASE_PATH:
+#BASE_PATH:
 
-gems:
-  - jekyll-paginate
+#gems:
+#  - jekyll-paginate
