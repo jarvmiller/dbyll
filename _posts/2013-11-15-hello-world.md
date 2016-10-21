@@ -3,7 +3,6 @@ layout: post
 title: NBA Overtime Games
 category: Data
 tags: r
-fullview: true
 ---
 
 I was recently curious about how big the home advantage affects overtime games in the NBA. 
