@@ -16,7 +16,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Non-normal
+      title: Abnormally distributed
 
 description: Stats in repose
 author:
