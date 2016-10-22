@@ -3,9 +3,8 @@ layout: post
 title: Configuration
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
+description: In your config file change these settings
 ---
-
-In your config file change these settings
 
 {% highlight yaml %}
 title: dbyll
